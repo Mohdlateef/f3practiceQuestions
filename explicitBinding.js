@@ -49,5 +49,5 @@ console.log(arrayformed);
 let formobject=Object.fromEntries(arrayformed);
 console.log(formobject);
 
-
-
+// to check weather the type of array in js
+console.log(Array.isArray(arr))
